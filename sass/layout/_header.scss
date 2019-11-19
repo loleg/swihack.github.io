@@ -14,11 +14,11 @@
 	#header {
 		@include padding(5em, 0, (3em, 0, -5em, 0));
 
-		background: #00aff0 url(../images/pflogo.png) no-repeat;
+		background: #fff url(../images/pflogo.png) no-repeat;
     background-size: auto 110%;
     background-position: center;
 
-		color: white;
+		color: black;
 
 		.logo {
 			display: block;
