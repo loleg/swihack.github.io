@@ -1,7 +1,7 @@
-# Language-specific strings
+# Scroll down for English and French
 de:
-  title: School of Data Schweiz
-  tagline: School of Data Schweiz will den Umgang mit und das Verständnis von Daten fördern.
+  title: Prototype Fund Schweiz
+  tagline: will den Umgang mit und das Verständnis von Daten fördern
   description: >
     Wir bieten Unterstützung über <a href="https://forum.schoolofdata.ch">unser Forum</a>
     und organisieren projektbasierte <a href="#info">Workshops</a>:
@@ -22,8 +22,9 @@ de:
     advanced: Datenbanken abfragen
     expert: Linked Data nutzen
     send: Senden
+
 fr:
-  title: L'École de données en Suisse
+  title: Prototype Fund en Suisse
   tagline: L'École de données promouvoit l'utilisation et la compréhension des données en Suisse.
   description: >
     Nous vous assistons sur <a href="https://forum.schoolofdata.ch">notre forum</a>
@@ -47,7 +48,7 @@ fr:
     send: Envoyer
 
 en:
-  title: School of Data Switzerland
+  title: Prototype Fund Switzerland
   tagline: The School of Data Switzerland supports the usage and understanding of data.
   description: >
     We provide support <a href="https://forum.schoolofdata.ch">on our forum</a>

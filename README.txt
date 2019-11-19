@@ -1,4 +1,4 @@
-Website of the School of Data in Switzerland
+Website of the Prototype Fund in Switzerland
 
 (Work in progress)
 
