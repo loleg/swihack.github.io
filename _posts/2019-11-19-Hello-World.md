@@ -22,4 +22,4 @@ There are lots of resources in our [Forum](https://forum.schoolofdata.ch), and y
 
 - This Data Expedition is facilitated by [@oleg](https://forum.schoolofdata.ch/users/oleg/) and [@nikki](https://forum.schoolofdata.ch/users/nikki/)
 - Use the [chat server](https://team.opendata.ch), [forum](https://forum.schoolofdata.ch) or [our contact form](http://schoolofdata.ch#contact) if you have any questions to the team.
-- Sign up for e-mail updates from our forum or [newsletter](https://tinyletter.com/schoolofdata-ch) to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events).
+- Sign up here for e-mail updates from our forum or [newsletter](https://tinyletter.com/schoolofdata-ch) to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events).
