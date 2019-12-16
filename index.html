@@ -1,5 +1,5 @@
 ---
-title: Prototype Fund Schweiz
+title: swihack
 language: Deutsch
 lang: de
 ref: index
@@ -32,87 +32,4 @@ layout: default
 		</a>
 	</article>
 {% endif %}{% endfor %}
-
-	<article class="style7">
-		<span class="image"><img src="{{ site.baseurl }}/images/pflogo.png"></span>
-		<a href="#contact">
-			<p>-/-</p>
-			<h2>Ihren Anlass</h2>
-			<div class="content">
-				<p>Gerne offen für Vorschläge</p>
-			</div>
-		</a>
-	</article>
-</section>
-
-<hr>
-<section id="info">
-	<div class="row">
-		<div class="6u 12u$(medium)">
-			<div class="service-item">
-				<span class="fa-stack fa-4x">
-					<i class="fa fa-circle fa-stack-2x"></i>
-					<i class="fa fa-question fa-stack-1x text-primary"></i>
-				</span>
-				{% capture mi1 %}{% include index-offer.de.include %}{% endcapture %}
-				{{ mi1 | markdownify }}
-			</div>
-		</div>
-
-		<div class="6u 12u$(medium)">
-			<div class="service-item">
-				<span class="fa-stack fa-4x">
-					<i class="fa fa-circle fa-stack-2x"></i>
-					<i class="fa fa-life-ring  fa-stack-1x text-primary"></i>
-				</span>
-				{% capture mi2 %}{% include index-help.de.include %}{% endcapture %}
-				{{ mi2 | markdownify }}
-			</div>
-		</div>
-	</div>
-</section>
-
-<section class="contact" id="contact">
-	<h2>{{ site.de.signup.title }}</h2>
-	<form method="post" action="https://utou.ch/scoda.php">
-		<div class="row uniform">
-			<div class="6u 12u$(small)">
-				{{ site.de.signup.header }}
-				<input type="radio" checked id="signup-human-me" name="signup-human">
-				<label for="signup-human-me">{{ site.de.signup.myself }}</label>
-				<!--
-				<div class="select-wrapper">
-					<select name="SKILL" id="signup-category">
-						<option value="">{{ site.de.signup.skills }}</option>
-						<option value="Beginner">{{ site.de.signup.beginner }}</option>
-						<option value="Intermediate">{{ site.de.signup.intermediate }}</option>
-						<option value="Advanced">{{ site.de.signup.advanced }}</option>
-						<option value="Expert">{{ site.de.signup.expert }}</option>
-					</select>
-				</div>
-				-->
-			</div>
-			<div class="6u$ 12u$(small)">
-				<input type="radio" id="signup-human-org" name="signup-human" onclick="$('#signup-org').show()">
-				<label for="signup-human-org">{{ site.de.signup.myorg }}</label>
-				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="{{ site.de.signup.org }}" />
-			</div>
-			<div class="6u 12u$(xsmall)">
-				<input type="text" name="NAME" id="signup-name" value="" placeholder="{{ site.de.signup.name }}" required />
-			</div>
-			<div class="6u$ 12u$(xsmall)">
-				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="{{ site.de.signup.email }}" required />
-			</div>
-			<div class="12u$">
-				<textarea name="COMMENT" id="signup-message" placeholder="{{ site.de.signup.comment }}" rows="6" required></textarea>
-			</div>
-			<div class="12u$">
-				<div class="g-recaptcha" data-sitekey="{{ site.grecaptcha.key }}"></div>
-				<input type="hidden" name="lang" value="" />
-				<ul class="actions">
-					<li><input type="submit" value="{{ site.de.signup.send }}" class="special" /></li>
-				</ul>
-			</div>
-		</div>
-	</form>
 </section>

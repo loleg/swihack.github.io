@@ -1,7 +1,3 @@
-Website of the Prototype Fund in Switzerland
-
-(Work in progress)
-
 See https://jekyllrb.com/docs/quickstart/ for deployment instructions.
 
 ---
