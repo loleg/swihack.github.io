@@ -4,12 +4,14 @@ author: swihack team
 title: Multilingual Media Hackathon
 when: 2020-02-21
 date: 2019-12-16
-image: https://en.unesco.org/sites/default/files/styles/img_688x358/public/commemorations/shutterstock_145733126.jpg?itok=NvzQzYWf
+image: ../images/multilingualism.jpg
 style: style2
 frontpage: true
 ---
 
-On Feb. 21 and 22, Switzerland’sfirst Multilingual Media Hackathon will take place in Bern at the newsroom of SWI swissinfo.ch, the international service of the Swiss public broadcaster SRG-SSR.
+On Feb. 21 and 22, Switzerland's first Multilingual Media Hackathon will take place in Bern at the newsroom of SWI swissinfo.ch, the international service of the Swiss public broadcaster SRG-SSR.
+
+<a href="https://pollunit.com/en/polls/anthlxx_l2md5ncw7r1csw" class="button">Register</a>
 
 ## About the organisers
 
@@ -17,7 +19,7 @@ At SWI, we publish in ten languages. Our daily news meetings involve discussions
 
 We will bring together journalists, coders, designers, and experts in multilingualism to find better solutions to elevate our linguistic diversity. We want to collaboratively work on solutions for multilingual media content productions, including text, video, and graphics.
 
-We’re excited that interested people of linguistic diversity from a wide range of countries and backgrounds have already signed up. If you would also like to join, [please let us know here](https://www.google.com/url?q=https://pollunit.com/en/polls/anthlxx_l2md5ncw7r1csw&sa=D&ust=1576583676723000). We’ll notify you if you’re in or on the waiting list and a spot frees up. We can host a maximum of about 35 people.
+We’re excited that interested people of linguistic diversity from a wide range of countries and backgrounds have already signed up. If you would also like to join, [please let us know here](https://pollunit.com/en/polls/anthlxx_l2md5ncw7r1csw). We’ll notify you if you’re in or on the waiting list and a spot frees up. We can host a maximum of about 35 people.
 
 ## Why should you join?
 
@@ -40,15 +42,11 @@ There will be challenges, and the opportunity to pitch your own idea. We need jo
 *   How to get the most out of APIs and spreadsheets
 *   Multilingual transcription and instant translations
 
-You can find an overview of the already submitted project ideas and challenges on our hackathon platform. If you would like to start such a project, please register at the top of the page.
-
-## Where do I find inspiration?
-
-Once your registration is confirmed, we will invite you to the Resources section of our hackathon platform for datasets, tools, and inspiration.
+You can find an overview of the already submitted project ideas and challenges on our hackathon platform. If you would like to start such a project, please register at the top of the page. Once your registration is confirmed, we will invite you to the Resources section of our hackathon platform for datasets, tools, and inspiration.
 
 ## What are the rules?
 
-All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the [Hack Code of Conduct](https://www.google.com/url?q=https://hackcodeofconduct.org/&sa=D&ust=1576583676725000). Organisers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody.
+All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the [Hack Code of Conduct](https://hackcodeofconduct.org/). Organisers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody.
 
 Our goal is to create as many exemplary, publicly accessible projects as possible, and hackathon teams are strongly encouraged to apply open source and open content licenses to their work. Respecting laws and licenses also applies to any data you download, or remixes that you make. Make sure to follow the Terms of Use and always correctly attribute your sources.
 
@@ -76,9 +74,9 @@ Swiss Broadcasting Corporation
 
 Giacomettistrasse 1, 3000 Bern 15
 
-Coordinates: [46.943941, 7.473407](https://www.google.com/url?q=https://goo.gl/maps/vxgdVVXrPjxwvVNf6&sa=D&ust=1576583676727000)
+Coordinates: [46.943941, 7.473407](https://goo.gl/maps/vxgdVVXrPjxwvVNf6)
 
-W3W: [promise.novel.emphasis](https://www.google.com/url?q=https://w3w.co/promise.novel.emphasis&sa=D&ust=1576583676727000)
+W3W: [promise.novel.emphasis](https://w3w.co/promise.novel.emphasis)
 
 ## By train
 
@@ -100,7 +98,7 @@ Most importantly, don’t forget your laptop. You may also want to bring your no
 
 ## Can we get accommodation/travel expenses reimbursed?
 
-Unfortunately, we do not have the means to support your travel or accommodation costs. Here are a few hotels you could stay at in Bern: [Ibis Wankdorf](https://www.google.com/url?q=https://all.accor.com/hotel/5007/index.de.shtml?dateIn%3D%26nights%3D%26compositions%3D1%26stayplus%3Dfalse%23origin%3Dibis&sa=D&ust=1576583676728000), [Ibis Style](https://www.google.com/url?q=https://all.accor.com/ssr/app/ibis/hotels/bern-switzerland/ase-ibs/index.de.shtml?compositions%3D1%26stayplus%3Dfalse%26order_hotels_by%3DRECOMMENDATION%26utm_term%3Dmar%26gclid%3DCj0KCQiA89zvBRDoARIsAOIePbDEGjRJAWw7bq793qz0a8RknzbZyL0qPlyXEXGoRnSw9xQ3raqIocQaAsrUEALw_wcB%26utm_campaign%3Dppc-ibs-mar-goo-ch-de-ch-exa-sear-bp%26utm_medium%3Dcpc%26utm_source%3Dgoogle%26utm_content%3Dch-de-CH-V0398&sa=D&ust=1576583676729000), [Hotel Ambassador](https://www.google.com/url?q=https://www.guestreservations.com/hotel-ambassador/booking?gclid%3DCj0KCQiA89zvBRDoARIsAOIePbDKtfrdwYBWtwCqBmowk2oE8P9vi6A4V_P8-0pf_wC_pJrk3vfH5Q0aAkMkEALw_wcB&sa=D&ust=1576583676729000), [Bed and Breakfast Villa Alma](https://www.google.com/url?q=http://bed-breakfast-villa-alma.bern-hotel.com/de/&sa=D&ust=1576583676730000), [The B.](https://www.google.com/url?q=https://www.theb.ch/&sa=D&ust=1576583676730000)
+Unfortunately, we do not have the means to support your travel or accommodation costs. Here are a few hotels you could stay at in Bern: [Ibis Wankdorf](https://all.accor.com/hotel/5007/index.de.shtml?dateIn%3D%26nights%3D%26compositions%3D1%26stayplus%3Dfalse%23origin%3Dibis), [Ibis Style](https://all.accor.com/ssr/app/ibis/hotels/bern-switzerland/ase-ibs/index.de.shtml?compositions%3D1%26stayplus%3Dfalse%26order_hotels_by%3DRECOMMENDATION%26utm_term%3Dmar%26gclid%3DCj0KCQiA89zvBRDoARIsAOIePbDEGjRJAWw7bq793qz0a8RknzbZyL0qPlyXEXGoRnSw9xQ3raqIocQaAsrUEALw_wcB%26utm_campaign%3Dppc-ibs-mar-goo-ch-de-ch-exa-sear-bp%26utm_medium%3Dcpc%26utm_source%3Dgoogle%26utm_content%3Dch-de-CH-V0398), [Hotel Ambassador](https://www.guestreservations.com/hotel-ambassador/booking?gclid%3DCj0KCQiA89zvBRDoARIsAOIePbDKtfrdwYBWtwCqBmowk2oE8P9vi6A4V_P8-0pf_wC_pJrk3vfH5Q0aAkMkEALw_wcB), [Bed and Breakfast Villa Alma](http://bed-breakfast-villa-alma.bern-hotel.com/de/), [The B.](https://www.theb.ch/)
 
 We will try to help answer any other questions that you may have on travel and/or accommodation and we can issue attendance certificates should you need them for your employer.
 
@@ -108,7 +106,7 @@ We will try to help answer any other questions that you may have on travel and/o
 
 Email: [hackathon@swissinfo.ch](mailto:hackathon@swissinfo.ch)
 
-Website: [swihack.ch](https://www.google.com/url?q=http://swihack.ch&sa=D&ust=1576583676731000)
+Website: [swihack.ch](http://swihack.ch)
 
 Hashtag: #swihack
 

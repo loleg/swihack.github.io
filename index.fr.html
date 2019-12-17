@@ -11,8 +11,15 @@ layout: default
 	<h5>{{ site.fr.description }}</h5>
 </header>
 
+<section id="intro">
+	<p>{{ site.fr.current.summary }}</p>
+	<a href="{{ site.fr.current.link }}" target="_blank" class="button">
+		{{ site.fr.current.register }}
+	</a>
+</section>
 <hr>
-<h2>{{ site.fr.current.title }}</h2>
+<h2>{{ site.fr.current.details }}</h2>
+
 <section class="tiles">
 	{% for post in site.posts %}{% if post.frontpage %}
 	<article class="{{ post.style }}">
