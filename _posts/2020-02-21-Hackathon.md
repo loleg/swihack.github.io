@@ -11,7 +11,7 @@ frontpage: true
 
 On Feb. 21 and 22, Switzerland's first Multilingual Media Hackathon will take place in Bern at the newsroom of SWI swissinfo.ch, the international service of the Swiss public broadcaster SRG-SSR.
 
-<a href="https://pollunit.com/en/polls/anthlxx_l2md5ncw7r1csw" class="button">Register</a>
+<a class="typeform-share button" href="https://swissinfo.typeform.com/to/dNwwCQ" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#267DDD;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:25px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-hide-headers=true data-hide-footer=true >Register now</a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 
 ## About the organisers
 
@@ -19,7 +19,7 @@ At SWI, we publish in ten languages. Our daily news meetings involve discussions
 
 We will bring together journalists, coders, designers, and experts in multilingualism to find better solutions to elevate our linguistic diversity. We want to collaboratively work on solutions for multilingual media content productions, including text, video, and graphics.
 
-We’re excited that interested people of linguistic diversity from a wide range of countries and backgrounds have already signed up. If you would also like to join, [please let us know here](https://pollunit.com/en/polls/anthlxx_l2md5ncw7r1csw). We’ll notify you if you’re in or on the waiting list and a spot frees up. We can host a maximum of about 35 people.
+We’re excited that interested people of linguistic diversity from a wide range of countries and backgrounds have already signed up. If you would also like to join, please register. We’ll notify you if you’re in or on the waiting list and a spot frees up. We can host a maximum of about 35 people.
 
 ## Why should you join?
 
