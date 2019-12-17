@@ -1,7 +1,7 @@
 ---
 layout: post
 author: swihack team
-title: Multilingual Media Hackathon
+title: English
 when: 2020-02-21
 date: 2019-12-16
 image: ../images/multilingualism.jpg
