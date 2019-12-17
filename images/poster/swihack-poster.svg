@@ -16,9 +16,9 @@
    id="svg20981"
    inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="swihack-poster.svg"
-   inkscape:export-filename="/home/oleg/Localdev/Opendata/swihack.github.io/images/poster/swihack-poster.svg.png"
-   inkscape:export-xdpi="199.99475"
-   inkscape:export-ydpi="199.99475">
+   inkscape:export-filename="/home/oleg/Documents/Datalets/Clients/swissinfo/swihack-poster.svg.png"
+   inkscape:export-xdpi="300.02237"
+   inkscape:export-ydpi="300.02237">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -45,9 +45,9 @@
      id="namedview6"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.38365131"
-     inkscape:cx="1128.167"
-     inkscape:cy="1198.0248"
+     inkscape:zoom="0.54256489"
+     inkscape:cx="713.37616"
+     inkscape:cy="961.07544"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -85,6 +85,15 @@
          inkscape:transform-center-y="-222.13354" />
     </mask>
   </defs>
+  <image
+     sodipodi:absref="/home/oleg/Downloads/frame.png"
+     y="1801.3853"
+     x="1258.6327"
+     id="image743"
+     xlink:href="file:///home/oleg/Downloads/frame.png"
+     preserveAspectRatio="none"
+     height="139.34665"
+     width="139.34665" />
   <g
      id="g1251"
      transform="matrix(1.7030129,0,0,1.7030129,114.67398,40.459278)">
@@ -429,7 +438,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="matrix(0.23974207,0,0,-0.23974207,1304.6903,2172.3903)"
+     transform="matrix(0.2362884,0,0,-0.2362884,1323.4202,2157.7265)"
      id="g4188">
     <g
        transform="scale(0.1)"
@@ -1060,15 +1069,6 @@
       </g>
     </g>
   </g>
-  <image
-     sodipodi:absref="/home/oleg/Downloads/frame.png"
-     y="1764.8372"
-     x="1322.8672"
-     id="image743"
-     xlink:href="file:///home/oleg/Downloads/frame.png"
-     preserveAspectRatio="none"
-     height="139.34665"
-     width="139.34665" />
   <path
      style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 72.982939,2192.9087 195.49001,1864.4855 h 656.84645 l -15.6392,344.0624 z"
@@ -1087,8 +1087,20 @@
          width="100%"
          height="100%" /></flowRegion><flowPara
        id="flowPara770"
-       style="font-size:26.66666603px;text-align:start;text-anchor:start">Am 21. und 22. Februar findet in Bern der erste Multilingual Media Hackathon der Schweiz im Newsroom von SWI swissinfo.ch statt, dem internationalen Dienst der SRG-SSR. Wir werden Journalisten, Programmierer, Designer und Experten für Mehrsprachigkeit zusammenbringen, um bessere Lösungen zur Steigerung unserer sprachlichen Vielfalt zu finden. Mehr Details gibt es auf <flowSpan
-   id="flowSpan768"
-   style="font-weight:bold;font-size:26.66666603px">swihack.ch</flowSpan></flowPara><flowPara
+       style="font-size:26.66666603px;text-align:start;text-anchor:start"><flowSpan
+         style="fill:#333333"
+         id="flowSpan1057">Am 21. und 22. Februar findet in Bern der erste Multilingual Media Hackathon der Schweiz im Newsroom von SWI swissinfo.ch statt, dem internationalen Dienst der SRG-SSR. Wir werden Journalisten, Programmierer, Designer und Experten für Mehrsprachigkeit zusammenbringen, um bessere Lösungen zur Steigerung unserer sprachlichen Vielfalt zu finden. Mehr Details gibt es auf </flowSpan><flowSpan
+         id="flowSpan768"
+         style="font-weight:bold;font-size:26.66666603px">swihack.ch</flowSpan></flowPara><flowPara
        id="flowPara772"
-       style="font-size:26.66666603px;text-align:start;text-anchor:start" /></flowRoot></svg>
+       style="font-size:26.66666603px;text-align:start;text-anchor:start" /></flowRoot>  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 823.39389,2134.4535 h 162.19258 v -121.6444 h 44.23433 v -42.3913 h 18.431 v -1.8431"
+     id="path248"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 1196.4841,1968.5747 h 36.862 v -97.6841 h 31.3326"
+     id="path250"
+     inkscape:connector-curvature="0" />
+</svg>
