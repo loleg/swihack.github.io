@@ -4,7 +4,7 @@ de:
   description: >
     Begleiten Sie uns vom 21. bis 22. Februar 2020 anlässlich des Internationalen Muttersprachentages: ein jährliches Fest der sprachlichen Vielfalt.
   current:
-    title: Aktuelle Challenges
+    title: Weiter lesen
 
 fr:
   title: SWI Multilingual Media Hackahon
@@ -12,7 +12,7 @@ fr:
   description: >
     Joignez-vous à nous les 21 et 22 février 2020 pour la Journée internationale de la langue maternelle: une célébration annuelle de la diversité linguistique.
   current:
-    title: Challenges actuels
+    title: Savoir plus
 
 en:
   title: SWI Multilingual Media Hackahon
@@ -20,7 +20,7 @@ en:
   description: >
     Join us on Feb. 21–22, 2020 to mark International Mother Language Day: a yearly celebration of linguistic diversity.
   current:
-    title: Current challenges
+    title: Detailed info
 
 # Site links
 title: swihack

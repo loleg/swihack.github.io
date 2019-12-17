@@ -12,15 +12,20 @@
 }
 
 	#header {
-		@include padding(5em, 0, (3em, 0, -5em, 0));
+		@include padding(0, 0, (0, 0, -5em, 0));
 
-		background: #fff url(../images/multilingualism.jpg) no-repeat;
-    background-size: auto 110%;
-    background-position: center;
+		background: #000;
 
-		color: black;
+		color: white;
 
 		.logo {
+			background: url(../images/swihack-logo.png) no-repeat;
+			background-size: contain;
+			color: transparent !important;
+			font-size: 0px !important;
+			width: 200px;
+			height: 60px;
+
 			display: block;
 			border-bottom: 0;
 			color: inherit;
@@ -50,7 +55,7 @@
 		nav {
 			position: fixed;
 			right: 2em;
-			top: 2em;
+			top: 1em;
 			z-index: _misc(z-index-base);
 
 			ul {
