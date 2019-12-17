@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
@@ -14,10 +15,10 @@
    height="594mm"
    id="svg20981"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="manwomandrinking-frame.svg"
-   inkscape:export-filename="/home/oleg/Downloads/manwomandrinking-frame.svg.png"
-   inkscape:export-xdpi="103.83"
-   inkscape:export-ydpi="103.83">
+   sodipodi:docname="swihack-poster.svg"
+   inkscape:export-filename="/home/oleg/Localdev/Opendata/swihack.github.io/images/poster/swihack-poster.svg.png"
+   inkscape:export-xdpi="109.21872"
+   inkscape:export-ydpi="109.21872">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -44,9 +45,9 @@
      id="namedview6"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.27128244"
-     inkscape:cx="-114.04529"
-     inkscape:cy="1211.9532"
+     inkscape:zoom="0.38365131"
+     inkscape:cx="800.47858"
+     inkscape:cy="1213.8874"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -68,6 +69,21 @@
          result="blur"
          id="feGaussianBlur910" />
     </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask218">
+      <image
+         sodipodi:absref="/home/oleg/Localdev/Opendata/swihack.github.io/images/unesco_bird.jpg"
+         y="299.41019"
+         x="-1337.9641"
+         id="image220"
+         xlink:href="file:///home/oleg/Localdev/Opendata/swihack.github.io/images/unesco_bird.jpg"
+         preserveAspectRatio="none"
+         height="1179.0144"
+         width="1293.057"
+         inkscape:transform-center-x="303.58244"
+         inkscape:transform-center-y="-222.13354" />
+    </mask>
   </defs>
   <g
      id="g1251"
@@ -85,41 +101,39 @@
        y="49.698471"
        x="52.620781"
        height="922.61255"
-       width="690.97656"
+       width="702.88135"
        id="rect1247"
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.71848297;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.80184555;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
-     id="g1213"
-     transform="matrix(1.7107887,0,0,1.7107887,52.928021,74.44341)">
+     id="g1082"
+     transform="translate(0,-12)">
     <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
        id="path1206"
-       d="m 255.26901,543.6486 23.96027,58.97912 24.68656,-60.05159 z"
-       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 198.65239,663.55077 c -10.06751,0 -18.17192,8.24835 -18.17192,18.49223 v 314.0433 c 0,10.2438 8.10441,18.4923 18.17192,18.4923 h 291.90983 l 38.60778,96.6982 39.0668,-96.6982 h 838.3743 c 10.0675,0 18.1719,-8.2485 18.1719,-18.4923 V 682.043 c 0,-10.24388 -8.1044,-18.49223 -18.1719,-18.49223 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.7185086px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <g
-       transform="matrix(1.066673,0,0,1.066673,763.89242,-396.67514)"
-       id="g939">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect918"
-         width="684.72247"
-         height="189.83905"
-         x="-646.24786"
-         y="694.70587"
-         ry="10" />
+       transform="matrix(1.6822444,0,0,1.6822444,62.906646,89.63728)"
+       id="g1213">
+      <path
+         inkscape:connector-curvature="0"
+         mask="url(#mask218)"
+         id="path204"
+         transform="matrix(0.58452572,0,0,0.58452572,846.74012,-43.78342)"
+         d="m -1302.6348,663.55078 c -10.1096,0 -18.248,8.14032 -18.248,18.25 v 309.92969 c 0,10.10963 8.1384,18.25003 18.248,18.25003 h 293.1328 l 38.76958,95.4316 39.23047,-95.4316 h 841.886716 c 10.10968,0 18.248046,-8.1404 18.248046,-18.25003 V 681.80078 c 10e-7,-10.10968 -8.138366,-18.25 -18.248046,-18.25 z"
+         style="fill:#009ec7;fill-opacity:1;stroke:none;stroke-width:1.71078873px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:145.94664001px;line-height:1.25;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.121665"
-         x="-339.49146"
-         y="885.28522"
-         id="text916"><tspan
-           sodipodi:role="line"
+         id="text916"
+         y="547.6347"
+         x="401.76605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:155.67733765px;line-height:1.25;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.7298336"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Circular Pro Book';-inkscape-font-specification:'Circular Pro Book, weight=452';fill:#ffffff;stroke-width:9.7298336"
+           y="547.6347"
+           x="401.76605"
            id="tspan914"
-           x="-339.49146"
-           y="885.28522"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Circular Pro Book';-inkscape-font-specification:'Circular Pro Book, weight=452';fill:#ffffff;stroke-width:9.121665">#swihack</tspan></text>
+           sodipodi:role="line">#swihack</tspan></text>
     </g>
   </g>
   <g
@@ -246,7 +260,7 @@
      xml:space="preserve"
      id="flowRoot1217"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none"
-     transform="matrix(2.2809996,0,0,2.2809996,-629.16596,-108.32361)"><flowRegion
+     transform="matrix(2.2809996,0,0,2.2809996,-629.16596,-118.32361)"><flowRegion
        id="flowRegion1219"
        style="fill:#800000;fill-opacity:1"><rect
          id="rect1221"
