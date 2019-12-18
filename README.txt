@@ -1,5 +1,7 @@
 See https://jekyllrb.com/docs/quickstart/ for deployment instructions.
 
+`bundle exec jekyll serve`
+
 ---
 
   Credits:
