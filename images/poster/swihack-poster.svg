@@ -45,9 +45,9 @@
      id="namedview6"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.54256489"
-     inkscape:cx="713.37616"
-     inkscape:cy="961.07544"
+     inkscape:zoom="0.36792228"
+     inkscape:cx="793.70079"
+     inkscape:cy="1122.5197"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -73,27 +73,45 @@
        maskUnits="userSpaceOnUse"
        id="mask218">
       <image
-         sodipodi:absref="/home/oleg/Localdev/Opendata/swihack.github.io/images/unesco_bird.jpg"
-         y="299.41019"
-         x="-1337.9641"
-         id="image220"
-         xlink:href="file:///home/oleg/Localdev/Opendata/swihack.github.io/images/unesco_bird.jpg"
-         preserveAspectRatio="none"
-         height="1179.0144"
-         width="1293.057"
+         sodipodi:absref="/home/oleg/Localdev/Opendata.ch/swihack.github.io/images/poster/../unesco_bird.jpg"
+         xlink:href="../unesco_bird.jpg"
+         inkscape:transform-center-y="-222.13354"
          inkscape:transform-center-x="303.58244"
-         inkscape:transform-center-y="-222.13354" />
+         width="1293.057"
+         height="1179.0144"
+         preserveAspectRatio="none"
+         id="image220"
+         x="-1337.9641"
+         y="299.41019" />
     </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <path
+         d="m 943.973,1351.039 h 104.512 v 104.512 H 943.973 Z"
+         id="path18"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
-  <image
-     sodipodi:absref="/home/oleg/Downloads/frame.png"
-     y="1801.3853"
-     x="1258.6327"
-     id="image743"
-     xlink:href="file:///home/oleg/Downloads/frame.png"
-     preserveAspectRatio="none"
-     height="139.34665"
-     width="139.34665" />
+  <g
+     transform="matrix(2.0615223,0,0,2.0615223,-643.59023,-1022.3727)"
+     id="g14">
+    <g
+       id="g16"
+       clip-path="url(#clipPath20)">
+      <g
+         id="g22"
+         transform="matrix(104.50999,0,0,-104.50999,943.97452,1455.5489)">
+        <image
+           width="1"
+           height="1"
+           preserveAspectRatio="none"
+           transform="matrix(1,0,0,-1,0,1)"
+           xlink:href="data:image/png;base64,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Wqk4874QU7KHhfdlb32eRXVfUWtbzKtE74sfwxgCy9CoK2FmFj4z7925qFlNyQ/dAeAeAguADQILgA0CC4ANAuugKpYDK44pS6VvbCsjsA5oy2qimVQrlzpiVdKgfhWw943YPI8eEZHzZBQjt8hY5VJd1FSNee87seVae1fQrVYq/ruSPSzVNuuOIo8j0uvJKkZGrT1TVZFVWdRUjTlzy3vFz061UvFfEVjFqAKr2mPNHHPmKqmq80RUu1YPfIYFwAaBBcAGgQXABoEFwAaBZch6xcgPpvx2q9o8s9oqgWVpqWBZtRSaQb3FfLV5XiqXqu+9rC7trxWR4qhi+d9skftSUZUeM8uTe8ez5ci0d6w9jqpse1jVipERkftSPQ5V6TGzPBm5d1VHL/O1ZydqHX4lHNTaD3X0h151HpWjForxOwILgA0CC4ANAguADQILgA0Ca1CK0mO0iBj5c5njicgqWTqWOSsXjwmsQe0tPW4pIkZWy8wcT0TGCp+OZc7yxeOeJbD3qIqja+dQHqr7yqQqYS4dmatlOh9LK8RuWUl177WqG7o4Wm0n4cziaETWQomZq2W6WnufoyupKq5VGb8SHlhWOKhKqiNbCxBlwLiGVWsEFgAjBBYAGwQWABsEFgAbBNaBZRYEFeXSo1PMj/scE1gHlrk1/N5yKfbPT/lSaETfGth9FEeXVdv2fe8RGXO18qR6PIihOCoSmUZVcbTatu8KkTFXK08qx1Pwx7AkAkskM7Cqbfuuorp31bUiqo1ndHyGBcAGgQXABoEFwAaBBcAGgWUoawv17NUys7Zir9b1qjaeyggsQxlbqPdYLTNjK/Zq5clq4ymvS/trBcXR/Vi9c7kUqirfZowncqhWdlUVjz8KgSU6VPelErnWqEfk3Vibn2maQvOcNZ7IER2z6t57oDgqEpnGzCWSM++9msgcqsq3meeJyBxzD3yGBcAGgQXABoEFwAaBBcAGgTWoo5YRs+87q8QbEblWdhlYjcAa1BFX7+xRwswo8UZErtWjDCzXrVCxQNXDqqbKiqOZq4luOTK3UI+MJ5NqflSF4aqG7mFVU2nF0czVRKMyn2m1LlJkPJH5ibxjEQVjobXGr4SW1l7IyAtbMewrjqmSyPwowqoyAguADQILgA0CC4ANAguADQILJRy58Ole5sxEYKG7Ixc+hyhzZuraAnvHkRefi8g8T+RQFT6dV8JcklnmzHwPe7Atjo4q8jiqLRqnKnwqCrEVZZY5R9+JmsAqxjGwVK9Qtfa5SrXVRFXX6oHPsADYILAA2CCwANggsADYILAMqUqPinKksmBZqcyplDnP1Z6pGoFlSFV63LsqqbpgWaXMqZY5z9WeqVrJWgMA3MPfsADYILAA2CCwANggsADYILAA2CCwANggsADYILAA2CCwANggsADYILAA2CCwANggsADYILAA2CCwANggsADYILAA2CCwANggsADYILAA2CCwANggsADYILAA2CCwANggsADYILAA2CCwANggsADYILAA2CCwANggsADYILAA2CCwANggsADYILAA2CCwANggsADY+B9WeO4IM1L/VQAAAABJRU5ErkJggg=="
+           id="image24" />
+      </g>
+    </g>
+  </g>
   <g
      id="g1251"
      transform="matrix(1.7030129,0,0,1.7030129,114.67398,40.459278)">
@@ -344,18 +362,18 @@
        transform="scale(0.93668101,1.0675993)"
        id="text1079"
        y="28.57155"
-       x="218.96161"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.50869942px;line-height:1.25;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.34429371"
+       x="156.37204"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.50869942px;line-height:1.25;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.34429371"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic Bold';letter-spacing:-0.57620519px;fill:#ffffff;stroke-width:1.34429371"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic Bold';text-align:start;letter-spacing:-0.57620519px;text-anchor:start;fill:#ffffff;stroke-width:1.34429371"
          y="28.57155"
-         x="218.67351"
+         x="156.37204"
          id="tspan1077"
-         sodipodi:role="line">swihack.ch</tspan></text>
+         sodipodi:role="line">swihack</tspan></text>
   </g>
   <g
      id="g5118"
-     transform="matrix(1.0627457,0,0,1.0627457,1143.5686,-646.88419)">
+     transform="matrix(1.293826,0,0,1.293826,1095.6445,-815.6678)">
     <path
        d="m 216.04635,777.81393 c 0,16.61972 -13.47278,30.09276 -30.09249,30.09276 -16.61972,0 -30.09316,-13.47304 -30.09316,-30.09276 0,-16.61971 13.47344,-30.09282 30.09316,-30.09282 16.61971,0 30.09249,13.47311 30.09249,30.09282"
        style="fill:#e61d25;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03323411"
@@ -437,8 +455,48 @@
        id="path4861"
        inkscape:connector-curvature="0" />
   </g>
+  <path
+     style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 72.982939,2192.9087 195.49001,1864.4855 h 656.84645 l -15.6392,344.0624 z"
+     id="path760"
+     inkscape:connector-curvature="0" />
+  <flowRoot
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot762"
+     transform="translate(-26.065335,120.85227)"><flowRegion
+       id="flowRegion764"><use
+         x="0"
+         y="0"
+         xlink:href="#path760"
+         id="use766"
+         width="100%"
+         height="100%" /></flowRegion><flowPara
+       id="flowPara770"
+       style="font-size:26.66666603px;text-align:start;text-anchor:start"><flowSpan
+         style="fill:#333333"
+         id="flowSpan1057">Am 21. und 22. Februar findet in Bern der erste Multilingual Media Hackathon der Schweiz im Newsroom von SWI swissinfo.ch statt, dem internationalen Dienst der SRG-SSR. </flowSpan></flowPara><flowPara
+       style="font-size:26.66666603px;text-align:start;text-anchor:start"
+       id="flowPara1110"><flowSpan
+         style="fill:#333333"
+         id="flowSpan1112">Mehr Details gibt es auf </flowSpan><flowSpan
+         id="flowSpan768"
+         style="font-weight:bold;font-size:26.66666603px">swihack.ch</flowSpan></flowPara><flowPara
+       id="flowPara772"
+       style="font-size:26.66666603px;text-align:start;text-anchor:start" /></flowRoot>  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 626.13859,2134.4535 359.44788,0 v -121.6444 h 44.23433 v -42.3913 h 18.431 v -1.8431"
+     id="path248"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 1196.4841,1968.5747 h 36.862 v -97.6841 l 74.3326,0"
+     id="path250"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
   <g
-     transform="matrix(0.2362884,0,0,-0.2362884,1323.4202,2157.7265)"
+     transform="matrix(0.29593208,0,0,-0.29593208,76.153699,2014.9609)"
      id="g4188">
     <g
        transform="scale(0.1)"
@@ -1013,94 +1071,73 @@
       </g>
       <g
          id="g481"
-         style="fill:#7ab800">
+         style="fill:none">
         <path
            d="m 756.227,869.141 c -66.641,0 -105.606,-45.121 -105.606,-119.2 0,-74.851 38.965,-119.203 105.606,-119.203 66.14,0 105.105,44.352 105.105,119.203 0,74.079 -38.965,119.2 -105.105,119.2 z m 0,-310.18 c -116.379,0 -194.309,83.059 -194.309,190.98 0,107.93 77.93,190.719 194.309,190.719 116.132,0 193.808,-83.308 193.808,-190.719 0,-107.921 -77.676,-190.98 -193.808,-190.98"
            id="path4472"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="m 1190.41,753.281 h 45.11 c 45.12,0 63.58,22.559 63.58,61.258 0,34.09 -20,57.172 -63.58,57.172 h -45.11 z m 0,-65.371 V 563.07 h -86.66 v 373.489 h 131.77 c 105.1,0 150.22,-53.059 150.22,-122.02 0,-74.598 -46.92,-126.629 -150.22,-126.629 h -45.11"
            id="path4474"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="M 1784.02,936.559 V 869.91 h -153.29 v -87.16 h 117.41 v -64.078 h -117.41 v -88.953 h 153.29 V 563.07 h -240.45 v 373.489 h 240.45"
            id="path4476"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="m 2040.31,923.23 177.38,-224.3 c -1.28,14.351 -2.05,27.941 -2.05,40 v 197.629 h 76.4 V 563.07 h -45.12 c -13.33,0 -21.79,3.332 -30.25,14.352 L 2040.56,799.93 c 1.03,-13.071 1.8,-25.629 1.8,-36.66 v -200.2 h -76.4 v 373.489 h 45.64 c 14.86,0 19.22,-1.789 28.71,-13.329"
            id="path4478"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="m 2856.89,785.32 h 13.85 c 12.81,0 22.05,4.102 27.68,12.039 l 84.08,122.032 c 9.23,13.32 20.26,17.168 37.44,17.168 h 75.36 L 2984.56,785.582 c -7.95,-11.031 -16.41,-17.691 -25.39,-22.562 13.08,-4.879 23.59,-12.559 32.56,-26.661 l 112.8,-173.289 h -77.43 c -19.73,0 -26.91,5.641 -33.82,15.891 l -84.6,129.969 c -6.16,9.492 -14.61,13.07 -30.76,13.07 h -21.03 V 563.07 h -86.64 v 373.489 h 86.64 V 785.32"
            id="path4480"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="m 3343.35,923.23 177.41,-224.3 c -1.29,14.351 -2.05,27.941 -2.05,40 v 197.629 h 76.38 V 563.07 h -45.11 c -13.33,0 -21.79,3.332 -30.26,14.352 l -176.1,222.508 c 1.02,-13.071 1.79,-25.629 1.79,-36.66 v -200.2 h -76.39 v 373.489 h 45.62 c 14.88,0 19.23,-1.789 28.71,-13.329"
            id="path4482"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="m 3954.41,869.141 c -66.64,0 -105.61,-45.121 -105.61,-119.2 0,-74.851 38.97,-119.203 105.61,-119.203 66.14,0 105.11,44.352 105.11,119.203 0,74.079 -38.97,119.2 -105.11,119.2 z m 0,-310.18 c -116.38,0 -194.31,83.059 -194.31,190.98 0,107.93 77.93,190.719 194.31,190.719 116.13,0 193.81,-83.308 193.81,-190.719 0,-107.921 -77.68,-190.98 -193.81,-190.98"
            id="path4484"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="m 4242.98,936.559 h 72.82 c 15.11,0 25.62,-7.43 28.71,-18.707 l 51.27,-194.821 c 3.33,-12.562 7.16,-27.172 8.96,-42.82 3.34,16.16 7.7,30.258 11.54,42.82 l 60.49,194.821 c 3.09,9.476 13.85,18.707 28.21,18.707 h 25.63 c 15.13,0 24.86,-7.18 28.71,-18.707 l 59.99,-194.821 c 3.84,-12.051 8.2,-25.379 11.27,-40.761 2.82,15.121 5.65,28.71 8.72,40.761 l 51.27,194.821 c 2.82,10 13.84,18.707 28.19,18.707 h 68.2 L 4671.6,563.07 h -78.44 l -70.24,231.481 c -2.31,7.179 -5.13,15.89 -7.44,25.371 -2.3,-9.481 -5.12,-18.192 -7.43,-25.371 L 4436.79,563.07 h -78.45 l -115.36,373.489"
            id="path4486"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="M 5029.88,632.289 H 5168.3 V 563.07 h -225.07 v 373.489 h 86.65 v -304.27"
            id="path4488"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="M 5592.75,936.559 V 869.91 h -153.3 v -87.16 h 117.4 v -64.078 h -117.4 v -88.953 h 153.3 V 563.07 h -240.46 v 373.489 h 240.46"
            id="path4490"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="m 5919.78,869.91 h -57.94 V 629.719 h 57.94 c 66.13,0 105.1,45.633 105.1,120.222 0,74.079 -38.97,119.969 -105.1,119.969 z m 0,-306.84 h -145.1 v 373.489 h 145.1 c 116.12,0 193.79,-79.207 193.79,-186.618 0,-107.921 -77.67,-186.871 -193.79,-186.871"
            id="path4492"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="m 6501.61,636.891 v 56.648 h -36.92 c -11.02,0 -17.43,6.422 -17.43,15.391 v 47.679 h 132.79 V 598.961 c -38.2,-27.941 -82.03,-40 -143.04,-40 -109.2,0 -190.73,81.531 -190.73,190.98 0,111.52 76.91,190.719 197.39,190.719 62.56,0 108.95,-21.531 138.94,-50.238 L 6557.5,852.23 c -4.88,-7.179 -11.55,-11.539 -19.5,-11.539 -5.11,0 -10.5,1.789 -15.89,5.129 -27.43,16.41 -46.65,23.321 -81.51,23.321 -64.61,0 -105.62,-47.68 -105.62,-119.2 0,-78.949 46.15,-124.32 108.69,-124.32 23.84,0 41.53,4.348 57.94,11.27"
            id="path4494"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
         <path
            d="M 6995.76,936.559 V 869.91 h -153.29 v -87.16 h 117.41 v -64.078 h -117.41 v -88.953 h 153.29 V 563.07 h -240.45 v 373.489 h 240.45"
            id="path4496"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:none" />
       </g>
     </g>
   </g>
-  <path
-     style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 72.982939,2192.9087 195.49001,1864.4855 h 656.84645 l -15.6392,344.0624 z"
-     id="path760"
-     inkscape:connector-curvature="0" />
-  <flowRoot
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     id="flowRoot762"
-     transform="translate(-26.065335,20.852268)"><flowRegion
-       id="flowRegion764"><use
-         x="0"
-         y="0"
-         xlink:href="#path760"
-         id="use766"
-         width="100%"
-         height="100%" /></flowRegion><flowPara
-       id="flowPara770"
-       style="font-size:26.66666603px;text-align:start;text-anchor:start"><flowSpan
-         style="fill:#333333"
-         id="flowSpan1057">Am 21. und 22. Februar findet in Bern der erste Multilingual Media Hackathon der Schweiz im Newsroom von SWI swissinfo.ch statt, dem internationalen Dienst der SRG-SSR. Wir werden Journalisten, Programmierer, Designer und Experten für Mehrsprachigkeit zusammenbringen, um bessere Lösungen zur Steigerung unserer sprachlichen Vielfalt zu finden. Mehr Details gibt es auf </flowSpan><flowSpan
-         id="flowSpan768"
-         style="font-weight:bold;font-size:26.66666603px">swihack.ch</flowSpan></flowPara><flowPara
-       id="flowPara772"
-       style="font-size:26.66666603px;text-align:start;text-anchor:start" /></flowRoot>  <path
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 823.39389,2134.4535 h 162.19258 v -121.6444 h 44.23433 v -42.3913 h 18.431 v -1.8431"
-     id="path248"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 1196.4841,1968.5747 h 36.862 v -97.6841 h 31.3326"
-     id="path250"
-     inkscape:connector-curvature="0" />
 </svg>
