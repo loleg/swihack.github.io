@@ -1,12 +1,15 @@
 <footer id="footer">
   <div class="inner">
     <section class="partners">
+      <p style="margin-top:-1em;margin-bottom:0.5em">Supported by</p>
       <a href="http://opendata.ch/" target="_blank" rel="me" style="border:none">
         <img src="https://make.opendata.ch/files/2013/01/Opendata.ch_.png" alt="Opendata.ch" title="Daten öffentlich, frei verfügbar und nutzbar zu machen für mehr Transparenz, Innovation und Effizienz — das ist Open Data.">
       </a>
       <a href="http://okfn.org" target="_blank" rel="me" style="border:none;margin-left:30px">
         <img src="https://opendata.ch/files/2014/07/open-knowledge-switzerland-logo-180px.png" width="120px">
       </a>
+      <p><a href="http://opendata.ch/" target="_blank">Opendata.ch</a>
+         - Swiss Chapter of Open Knowledge</p>
     </section>
     <section>
       <!--<h2>Follow</h2>-->
@@ -18,7 +21,7 @@
         <li><a href="{{ site.calendar }}" class="icon style2 fa-calendar"><span class="label">Agenda</span></a></li>
         {% endif %}
         {% if site.twitter %}
-          <li><a href="https://twitter.com/{{ site.twitter }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="https://twitter.com/hashtag/{{ site.twitter }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
         {% endif %}
         {% if site.facebook %}
         <li><a href="https://www.facebook.com/{{ site.facebook }}" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
@@ -29,7 +32,9 @@
         {% if site.dribbble %}
         <li><a href="https://dribbble.com/{{ site.dribbble }}" class="icon style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
         {% endif %}
-        {% if site.github %}
+        {% if site.github.issues_url %}
+        <li><a href="{{ site.github.issues_url }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
+        {% else if site.github %}
         <li><a href="https://github.com/{{ site.github }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
         {% endif %}
         {% if site.500px %}

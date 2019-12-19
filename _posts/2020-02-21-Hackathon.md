@@ -9,9 +9,7 @@ style: style2
 frontpage: true
 ---
 
-<font size="150%">On Feb. 21 and 22, Switzerland's first Multilingual Media Hackathon will take place in Bern at the newsroom of SWI swissinfo.ch, the international service of the Swiss public broadcaster SRG-SSR.</font>
-
----
+On Feb. 21 and 22, Switzerland's first Multilingual Media Hackathon will take place in Bern at the newsroom of SWI swissinfo.ch, the international service of the Swiss public broadcaster SRG-SSR.
 
 ## About the organisers
 

@@ -37,12 +37,12 @@ en:
 # Site links
 title: swihack
 url: "https://swihack.ch"
-email: info@schoolofdata.ch
+email: hackathon@swissinfo.ch
 forum: "https://forum.opendata.ch/t/21-22-02-swi-multilingual-media/598/3"
-twitter: schoolofdata_ch
+twitter: swihack
 calendar: https://forum.schoolofdata.ch/t/upcoming-events/40
-facebook: schoolofdata
-github: schoolofdata-ch
+facebook:
+github:
 grecaptcha:
   key: 6Lco8A8UAAAAAH68UXg94Ib9ptw6fRGxnZtSb0oQ
 

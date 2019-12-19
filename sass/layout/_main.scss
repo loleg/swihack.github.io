@@ -9,7 +9,11 @@
 	#main {
 		@include padding(5em, 0, (-5em, 0, 3em, 0));
 
+		article p:first-child { font-size: 145%; }
+
 		@include breakpoint(small) {
 			@include padding(3em, 0, (-3em, 0, 3em, 0));
+
+			article p:first-child { font-size: inherit; }
 		}
 	}

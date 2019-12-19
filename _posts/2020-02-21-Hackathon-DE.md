@@ -9,15 +9,13 @@ style: style2
 frontpage: true
 ---
 
-<font size="150%">Am 21. und 22. Februar findet in Bern der erste Multilingual Media Hackathon der Schweiz im Newsroom von SWI swissinfo.ch statt, dem internationalen Dienst der SRG-SSR.</font>
-
----
+Am 21. und 22. Februar findet in Bern der erste Multilingual Media Hackathon der Schweiz im Newsroom von SWI swissinfo.ch statt, dem internationalen Dienst der SRG-SSR.
 
 ## Über die Organisatoren
 
 Bei SWI veröffentlichen wir in zehn Sprachen. Unsere täglichen News-Meetings beinhalten Diskussionen in mindestens drei, manchmal fünf Sprachen. Dieser Grad an Vielfalt könnte als Verbindlichkeit angesehen werden; wir betrachten ihn als unser grösstes Kapital.
 
-Wir werden Journalisten, Programmierer, Designer und Experten für Mehrsprachigkeit zusammenbringen, um bessere Lösungen zur Steigerung unserer sprachlichen Vielfalt zu finden. Wir wollen gemeinsam an Lösungen für die Produktion mehrsprachiger Medieninhalte wie Text, Video und Grafik arbeiten.
+Wir werden Journalisten, Programmierer, Designer und Experten für Mehrsprachigkeit zusammenbringen, um bessere Lösungen zur Steigerung unserer sprachlichen Vielfalt zu finden. Wir wollen gemeinsam an Lösungen für die Produktion mehrsprachiger Medieninhalte wie Text, Video und Grafik arbeiten. 
 
 Wir freuen uns, dass sich bereits Interessenten mit den unterschiedlichsten Muttersprachen aus den verschiedensten Ländern und Hintergründen angemeldet haben. Wenn auch du mitmachen möchtest, melde dich bitte hier an. Wir benachrichtigen dich, wenn Sie auf oder auf der Warteliste stehen und ein Platz frei wird. Wir haben eine maximale Teilnehmerzahl von 35 Personen.
 
