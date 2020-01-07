@@ -40,7 +40,9 @@ Es gibt bereits Challenges, denen du dich anschliessen kannst, du kannst aber au
 - Wie man das Beste aus APIs und Spreadsheets herausholen kann
 - Mehrsprachige Transkription und schnelle Übersetzungen
 
-Einen Überblick über die bereits eingereichten Projektideen und Herausforderungen finden Sie auf unserer Hackathon-Plattform. Wenn Sie ein solches Projekt starten möchten, registrieren Sie sich bitte oben auf der Seite. Sobald Ihre Registrierung bestätigt ist, laden wir Sie in den Bereich Ressourcen unserer Hackathon-Plattform mit Datensätzen, Tools und Inspiration ein.
+Einen Überblick über die bereits eingereichten Projektideen und Challenges, empfohlene Datensätzen, Tools und Inspirationen, befinden sich auf unserer **[Hackathon-Plattform](https://db.schoolofdata.ch/event/4)**. Wenn Sie ein solches Projekt starten möchten, registrieren Sie sich bitte oben auf der Seite. Sobald deine Registrierung ist bestätigt, laden wir dich gerne zum einem Thema anschliessen (JOIN), oder ein eigenen Challenge zu vorschlagen.
+
+<a href="https://swissinfo.typeform.com/to/dNwwCQ" target="_blank" class="button">Registrieren</a>
 
 ## Gibt es Regeln?
 
