@@ -40,7 +40,9 @@ There will be challenges, and the opportunity to pitch your own idea. We need jo
 *   How to get the most out of APIs and spreadsheets
 *   Multilingual transcription and instant translations
 
-You can find an overview of the already submitted project ideas and challenges on our hackathon platform. If you would like to start such a project, please register at the top of the page. Once your registration is confirmed, we will invite you to the Resources section of our hackathon platform for datasets, tools, and inspiration.
+You can find an overview of the already submitted project ideas and challenges, some useful datasets, tools, and inspiration, on the **[hackathon platform](https://db.schoolofdata.ch/event/4)**. Once your registration is confirmed, we would encourage you to JOIN one of the challenges, or to submit your own.
+
+<a href="https://swissinfo.typeform.com/to/dNwwCQ" target="_blank" class="button">Register</a>
 
 ## What are the rules?
 
