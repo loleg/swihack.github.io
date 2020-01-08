@@ -9,13 +9,15 @@ style: style2
 frontpage: true
 ---
 
-Am 21. und 22. Februar findet in Bern der erste Multilingual Media Hackathon der Schweiz im Newsroom von SWI swissinfo.ch statt, dem internationalen Dienst der SRG-SSR.
+Am 21. und 22. Februar findet in Bern der erste Multilingual Media Hackathon der Schweiz im Newsroom von SWI swissinfo.ch statt, dem internationalen Dienst der SRG-SSR. Ein wichtiger Grund dafür ist die Internationale Tag der Muttersprache, ein von der UNESCO ausgerufener Gedenktag zur „[Förderung sprachlicher und kultureller Vielfalt und Mehrsprachigkeit]((https://de.wikipedia.org/wiki/Internationaler_Tag_der_Muttersprache))“.
 
 ## Über die Organisatoren
 
 Bei SWI veröffentlichen wir in zehn Sprachen. Unsere täglichen News-Meetings beinhalten Diskussionen in mindestens drei, manchmal fünf Sprachen. Dieser Grad an Vielfalt könnte als Verbindlichkeit angesehen werden; wir betrachten ihn als unser grösstes Kapital.
 
-Wir werden Journalisten, Programmierer, Designer und Experten für Mehrsprachigkeit zusammenbringen, um bessere Lösungen zur Steigerung unserer sprachlichen Vielfalt zu finden. Wir wollen gemeinsam an Lösungen für die Produktion mehrsprachiger Medieninhalte wie Text, Video und Grafik arbeiten. 
+## Was ist das Ziel?
+
+Wir werden Journalisten, Programmierer, Designer und Experten für Mehrsprachigkeit zusammenbringen, um bessere Lösungen zur Steigerung unserer sprachlichen Vielfalt zu finden. Wir wollen gemeinsam an Lösungen für die Produktion mehrsprachiger Medieninhalte wie Text, Video und Grafik arbeiten.
 
 Wir freuen uns, dass sich bereits Interessenten mit den unterschiedlichsten Muttersprachen aus den verschiedensten Ländern und Hintergründen angemeldet haben. Wenn auch du mitmachen möchtest, melde dich bitte hier an. Wir benachrichtigen dich, wenn Sie auf oder auf der Warteliste stehen und ein Platz frei wird. Wir haben eine maximale Teilnehmerzahl von 35 Personen.
 
@@ -42,7 +44,7 @@ Es gibt bereits Challenges, denen du dich anschliessen kannst, du kannst aber au
 
 Einen Überblick über die bereits eingereichten Projektideen und Challenges, empfohlene Datensätzen, Tools und Inspirationen, befinden sich auf unserer **[Hackathon-Plattform](https://db.schoolofdata.ch/event/4)**. Wenn Sie ein solches Projekt starten möchten, registrieren Sie sich bitte oben auf der Seite. Sobald deine Registrierung ist bestätigt, laden wir dich gerne zum einem Thema anschliessen (JOIN), oder ein eigenen Challenge zu vorschlagen.
 
-<a href="https://swissinfo.typeform.com/to/dNwwCQ" target="_blank" class="button">Registrieren</a>
+<a href="https://swissinfo.typeform.com/to/dNwwCQ" class="button">Registrieren</a>
 
 ## Gibt es Regeln?
 
@@ -50,7 +52,7 @@ Alle Teilnehmer, Sponsoren, Partner, Freiwillige und Mitarbeiter unseres Hackath
 
 Unser Ziel ist es, so viele öffentlich zugängliche Projekte wie möglich zu realisieren, und Hackathon-Teams werden dringend aufgefordert, Open-Source- und Open-Content-Lizenzen auf ihre Arbeit anzuwenden. Die Einhaltung von Gesetzen und Lizenzen gilt auch für alle Daten, die Sie herunterladen oder neu mixen, die Sie erstellen. Achten Sie auf die Einhaltung der Nutzungsbedingungen und geben Sie Ihre Quellen immer korrekt an.
 
-## Ablauf
+# Ablauf
 
 Freitag, 21. Februar 2020
 
@@ -68,21 +70,24 @@ Samstag, 22. Februar 2020
 - 14:30 Uhr Wahl der Gewinner
 - 14:45 Uhr Vorstellung der Gewinner
 
-## Wie komme ich zu SWI?
+# Wie komme ich zu SWI?
 
+Adresse:
+```
 SWI swissinfo.ch
-
-Giacomettistrasse 1, 3000 Bern 15
+Giacomettistrasse 1
+3000 Bern 15
+```
 
 Koordinaten: [46.943941, 7.473407](https://goo.gl/maps/vxgdVVXrPjxwvVNf6)
 
 W3W: [promise.novel.emphasis](https://w3w.co/promise.novel.emphasis)
 
-##### Mit dem Zug
+### Mit dem Zug
 
 Mit dem Zug bis zum Hauptbahnhof Bern. Dann mit der Tram Nr. 7 bis zur Endstation Ostring. Von dort aus sind es nur noch 5 Gehminuten zur SRG-SSR-Zentrale, wo sich der SWI-Newsroom auch befindet.
 
-## FAQ
+# FAQ
 
 ##### Brauche ich eine Projektidee oder ein Team, um teilzunehmen?
 
@@ -102,7 +107,7 @@ Leider können wir Deine Reise- oder Aufenthaltskosten nicht decken. Hier sind e
 
 Wir werden versuchen, Dir bei der Beantwortung aller anderen Fragen zu helfen. Wir können Dir auch gerne eine Teilnahmebescheinigung ausstellen, falls Du diese für Deinen Arbeitgeber benötigst.
 
-## Kontakte
+# Kontakte
 
 Email: [hackathon@swissinfo.ch](mailto:hackathon@swissinfo.ch)
 
@@ -110,4 +115,4 @@ Website: [swihack.ch](http://swihack.ch)
 
 Hashtag: #swihack
 
-Telegram Gruppe: swi_hackathon
+Telegram: swi_hackathon

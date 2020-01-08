@@ -12,15 +12,15 @@ de:
 
 fr:
   title: SWI Multilingual Media Hackahon
-  tagline: Nous organisons un hackathon sur l'autonomisation de la diversité linguistique dans les salles de rédaction.
+  tagline: Nous organisons les 21 et 22 février 2020 un hackathon visant à renforcer la diversité linguistique dans les rédactions.
   description: >
-    Joignez-vous à nous les 21 et 22 février 2020 pour la Journée internationale de la langue maternelle: une célébration annuelle de la diversité linguistique.
+    A l’occasion de la Journée Internationale de la Langue Maternelle, qui promeut la diversité linguistique et culturelle et le multilinguisme, nous réunirons des journalistes, des programmateurs, des concepteurs et des experts en multilinguisme dans le but de trouver des solutions pour renforcer notre diversité linguistique.
   current:
     register: Registration
     link: https://swissinfo.typeform.com/to/dNwwCQ
     summary: >
-      Nous réunirons des journalistes, des codeurs, des concepteurs et des experts en multilinguisme afin de trouver de meilleures solutions pour élever notre diversité linguistique. Nous voulons travailler en collaboration sur des solutions pour la production de contenu multimédia multilingue, y compris du texte, de la vidéo et des graphiques.
-    details: Savoir plus
+      Ensemble, nous chercherons des solutions à la production de contenus multimédias multilingues, qu’ils soient sous forme de textes, de vidéos ou de graphiques.
+    details: Pour en savoir plus
 
 en:
   title: SWI Multilingual Media Hackahon

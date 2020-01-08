@@ -9,11 +9,13 @@ style: style2
 frontpage: true
 ---
 
-On Feb. 21 and 22, Switzerland's first Multilingual Media Hackathon will take place in Bern at the newsroom of SWI swissinfo.ch, the international service of the Swiss public broadcaster SRG-SSR.
+On Feb. 21 and 22, Switzerland's first Multilingual Media Hackathon will take place in Bern at the newsroom of SWI swissinfo.ch, the international service of the Swiss public broadcaster SRG-SSR. We are getting together on occasion of International Mother Language Day, a worldwide annual observance started by UNESCO for [awareness of linguistic and cultural diversity and to promote multilingualism](https://en.wikipedia.org/wiki/International_Mother_Language_Day).
 
 ## About the organisers
 
 At SWI, we publish in ten languages. Our daily news meetings involve discussions in at least three, sometimes five, languages. This degree of diversity could be seen as a liability; we consider it our greatest asset.
+
+## What's the goal of the hackathon?
 
 We will bring together journalists, coders, designers, and experts in multilingualism to find better solutions to elevate our linguistic diversity. We want to collaboratively work on solutions for multilingual media content productions, including text, video, and graphics.
 
@@ -42,7 +44,7 @@ There will be challenges, and the opportunity to pitch your own idea. We need jo
 
 You can find an overview of the already submitted project ideas and challenges, some useful datasets, tools, and inspiration, on the **[hackathon platform](https://db.schoolofdata.ch/event/4)**. Once your registration is confirmed, we would encourage you to JOIN one of the challenges, or to submit your own.
 
-<a href="https://swissinfo.typeform.com/to/dNwwCQ" target="_blank" class="button">Register</a>
+<a href="https://swissinfo.typeform.com/to/dNwwCQ" class="button">Register</a>
 
 ## What are the rules?
 
@@ -50,7 +52,7 @@ All attendees, sponsors, partners, volunteers and staff at our hackathon are req
 
 Our goal is to create as many exemplary, publicly accessible projects as possible, and hackathon teams are strongly encouraged to apply open source and open content licenses to their work. Respecting laws and licenses also applies to any data you download, or remixes that you make. Make sure to follow the Terms of Use and always correctly attribute your sources.
 
-## Schedule
+# Schedule
 
 ## Friday, February 21, 2020
 
@@ -68,11 +70,14 @@ Our goal is to create as many exemplary, publicly accessible projects as possibl
 *   2:30 p.m. Voting
 *   2:45 p.m. Presentation of winners
 
-## How do I get there?
+# How do I get there?
 
-Swiss Broadcasting Corporation
-
-Giacomettistrasse 1, 3000 Bern 15
+Address:
+```
+SWI swissinfo.ch
+Giacomettistrasse 1
+3000 Bern 15
+```
 
 Coordinates: [46.943941, 7.473407](https://goo.gl/maps/vxgdVVXrPjxwvVNf6)
 
@@ -82,7 +87,7 @@ W3W: [promise.novel.emphasis](https://w3w.co/promise.novel.emphasis)
 
 Take a train to Bern’s main station (Hauptbahnhof). From there, take the tram N. 7 to its terminal station, Ostring. From there, it is only a 5 minute walk to the SRG-SSR headquarters, where the SWI newsroom is located.
 
-## FAQ
+# FAQ
 
 ## Do I need a project idea or a team to participate?
 
@@ -110,4 +115,4 @@ Website: [swihack.ch](http://swihack.ch)
 
 Hashtag: #swihack
 
-Telegram group: swi_hackathon
+Telegram: swi_hackathon
