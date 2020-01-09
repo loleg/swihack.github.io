@@ -9,7 +9,7 @@ style: style2
 frontpage: true
 ---
 
-Il primo multilingue Media Hackathon della Svizzera si terrà a Berna il 21 e 22 febbraio nella sala stampa della SWI swissinfo.ch, il servizio internazionale della SRG-SSR.Un importante motivo di questo Hackathon è la Giornata internazionale della lingua madre, una giornata proclamata dall'UNESCO per [promuovere la diversità linguistica e culturale e il multilinguismo](https://en.wikipedia.org/wiki/International_Mother_Language_Day).
+Il primo multilingue Media Hackathon della Svizzera si terrà a Berna il 21 e 22 febbraio nella sala stampa della SWI swissinfo.ch, il servizio internazionale della SRG-SSR.Un importante motivo di questo Hackathon è la Giornata internazionale della lingua madre, una giornata proclamata dall'UNESCO per [promuovere la diversità linguistica e culturale e il multilinguismo](https://it.wikipedia.org/wiki/Giornata_internazionale_della_lingua_madre).
 
 ## Informazioni sugli organizzatori
 
