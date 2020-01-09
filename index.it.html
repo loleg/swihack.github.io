@@ -1,0 +1,42 @@
+---
+title: swihack
+language: Italiano
+lang: it
+ref: index
+layout: default
+---
+
+<header>
+	<h1>{{ site.it.tagline }}</h1>
+	<h5>{{ site.it.description }}</h5>
+</header>
+
+<section id="intro">
+	<p>{{ site.it.current.summary }}</p>
+	<a href="{{ site.it.current.link }}" target="_blank" class="button">
+		{{ site.it.current.register }}
+	</a>
+</section>
+<hr>
+<h2>{{ site.it.current.details }}</h2>
+
+<section id="frontpage" class="tiles">
+{% for post in site.posts %}{% if post.frontpage %}
+	<article class="{{ post.style }}">
+		<span class="image">
+			{% if post.image contains '://' %}
+			<img src="{{ post.image }}" />
+			{% else %}
+			<img src="{{ site.baseurl }}/{{ post.image }}" />
+			{% endif %}
+		</span>
+		<a href="{{ post.url | prepend: site.baseurl }}">
+			<p>{{ post.when | date: "%b %-d, %Y" }}</p>
+			<h2>{{ post.title }}</h2>
+			<div class="content">
+				<p>{{ post.tagline }}</p>
+			</div>
+		</a>
+	</article>
+{% endif %}{% endfor %}
+</section>
