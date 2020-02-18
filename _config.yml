@@ -5,6 +5,8 @@ de:
     Begleiten Sie uns vom 21. bis 22. Februar 2020 anlässlich des Internationalen Muttersprachentages: ein jährliches Fest der sprachlichen Vielfalt.
   current:
     register: Registrieren
+    challenges: Ausschreibungen
+    results: Resultate
     link: https://swissinfo.typeform.com/to/dNwwCQ
     summary: >
       Wir werden Journalisten, Programmierer, Designer und Experten für Mehrsprachigkeit zusammenbringen, um bessere Lösungen zur Steigerung unserer sprachlichen Vielfalt zu finden. Wir wollen gemeinsam an Lösungen für die Produktion mehrsprachiger Medieninhalte wie Text, Video und Grafik arbeiten.
@@ -17,6 +19,8 @@ fr:
     A l’occasion de la Journée Internationale de la Langue Maternelle, qui promeut la diversité linguistique et culturelle et le multilinguisme, nous réunirons des journalistes, des programmateurs, des concepteurs et des experts en multilinguisme dans le but de trouver des solutions pour renforcer notre diversité linguistique.
   current:
     register: Registration
+    challenges: Les défis
+    results: Résultats
     link: https://swissinfo.typeform.com/to/dNwwCQ
     summary: >
       Ensemble, nous chercherons des solutions à la production de contenus multimédias multilingues, qu’ils soient sous forme de textes, de vidéos ou de graphiques.
@@ -29,6 +33,8 @@ it:
     Unisciti a noi dal 21 al 22 febbraio 2020 in occasione della Giornata internazionale della lingua madre: una celebrazione annuale della diversità linguistica.
   current:
     register: Registrazione
+    challenges: Contesti
+    results: Risultati
     link: https://swissinfo.typeform.com/to/dNwwCQ
     summary: >
       Riuniremo giornalisti, programmatori, designer ed esperti di multilinguismo per trovare le migliori opzioni per incrementare la nostra diversità linguistica. Vogliamo insieme lavorare a soluzioni per una produzione multilingue di contenuti multimediali come testi, video e grafica.
@@ -41,6 +47,8 @@ en:
     Join us on Feb. 21–22, 2020 to mark International Mother Language Day: a yearly celebration of linguistic diversity.
   current:
     register: Register
+    challenges: Challenges
+    results: Results
     link: https://swissinfo.typeform.com/to/dNwwCQ
     summary: >
       We will bring together journalists, coders, designers, and experts in multilingualism to find better solutions to elevate our linguistic diversity. We want to collaboratively work on solutions for multilingual media content productions, including text, video, and graphics.
@@ -50,6 +58,8 @@ en:
 title: swihack
 url: "https://swihack.ch"
 email: hackathon@swissinfo.ch
+challenges: https://db.schoolofdata.ch/event/4
+results:
 forum: "https://forum.opendata.ch/t/21-22-02-swi-multilingual-media/598/3"
 twitter: swihack
 calendar: https://forum.schoolofdata.ch/t/upcoming-events/40

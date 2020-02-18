@@ -13,9 +13,18 @@ layout: default
 
 <section id="intro">
 	<p>{{ site.de.current.summary }}</p>
+	{% if site.results %}
+	<a href="{{ site.results }}" target="_blank" class="button">
+    &#128640; {{ site.de.current.results }}
+  </a>
+	{% else %}
 	<a href="{{ site.de.current.link }}" target="_blank" class="button">
 		{{ site.de.current.register }}
 	</a>
+	<a href="{{ site.challenges }}" target="_blank" class="button">
+    &#127942; {{ site.de.current.challenges }}
+  </a>
+	{% endif %}
 </section>
 <hr>
 <h2>{{ site.de.current.details }}</h2>
