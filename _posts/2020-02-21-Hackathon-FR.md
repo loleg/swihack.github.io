@@ -9,11 +9,9 @@ style: style2
 frontpage: true
 ---
 
-## Resultats!
-
 <iframe src="https://db.schoolofdata.ch/event/4?embed=1" style="width:100%;height:320px;background:transparent;border:none;overflow:hidden" scrolling="no"></iframe>
 
-Un grand merci à tous pour l'excellent travail! Il y a du [documentation](https://db.schoolofdata.ch/event/4) (dribdat), les [présentations](https://youtu.be/8-FmarNlxgA) (youtube), et [médias sociaux](https://twitter.com/hashtag/swihack) (twitter) à explorer. Pour toute question ou intérêt, nous sommes à votre [disposition](#Contacts).
+**Un grand merci à tous pour l'excellent travail!** Il y a du [documentation](https://db.schoolofdata.ch/event/4) (dribdat), les [présentations](https://youtu.be/8-FmarNlxgA) (youtube), et [médias sociaux](https://twitter.com/hashtag/swihack) (twitter) à explorer. Pour toute question, nous restons à votre [disposition](#Contacts).
 
 ---
 

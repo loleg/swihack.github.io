@@ -9,11 +9,9 @@ style: style2
 frontpage: true
 ---
 
-## Fertig gehäckt!
-
 <iframe src="https://db.schoolofdata.ch/event/4?embed=1" style="width:100%;height:320px;background:transparent;border:none;overflow:hidden" scrolling="no"></iframe>
 
-Vielen Dank an alle Teilnehmer*innen für die grossartige Arbeit! Es gibt [Dokumentationen](https://db.schoolofdata.ch/event/4) (dribdat), [Präsentationen](https://youtu.be/8-FmarNlxgA) (youtube), und [Sozialmedia](https://twitter.com/hashtag/swihack) (twitter) zu besuchen. Für alle Fragen und Interesse stehen wir euch [zur Verfügung](#Kontakte).
+**Vielen Dank an alle Teilnehmer*innen für die grossartige Arbeit!** Es gibt [Dokumentationen](https://db.schoolofdata.ch/event/4) (dribdat), [Präsentationen](https://youtu.be/8-FmarNlxgA) (youtube), und [Sozialmedia](https://twitter.com/hashtag/swihack) (twitter) zu besuchen. Für alle Fragen stehen wir [zur Verfügung](#Kontakte).
 
 ---
 
