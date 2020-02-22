@@ -58,8 +58,8 @@ en:
 title: swihack
 url: "https://swihack.ch"
 email: hackathon@swissinfo.ch
-challenges: https://db.schoolofdata.ch/event/4
-results:
+challenges:
+results: https://db.schoolofdata.ch/event/4
 forum: "https://forum.opendata.ch/t/21-22-02-swi-multilingual-media/598/3"
 twitter: swihack
 calendar: https://forum.schoolofdata.ch/t/upcoming-events/40

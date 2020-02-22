@@ -9,6 +9,14 @@ style: style2
 frontpage: true
 ---
 
+## Resultats!
+
+<iframe src="https://db.schoolofdata.ch/event/4?embed=1" style="width:100%;height:320px;background:transparent;border:none;overflow:hidden" scrolling="no"></iframe>
+
+Un grand merci à tous pour l'excellent travail! Il y a du [documentation](https://db.schoolofdata.ch/event/4) (dribdat), les [présentations](https://youtu.be/8-FmarNlxgA) (youtube), et [médias sociaux](https://twitter.com/hashtag/swihack) (twitter) à explorer. Pour toute question ou intérêt, nous sommes à votre [disposition](#Contacts).
+
+---
+
 Le premier hackathon multilingue de Suisse dédié aux médias aura lieu les 21 et 22 février à Berne chez SWI swissinfo.ch, le service international de la SSR. Nous nous réunissons à l'occasion de la Journée internationale de la langue maternelle, une célébration annuelle mondiale lancée par l'UNESCO pour [promouvoir la diversité linguistique et culturelle et le multilinguisme](https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_de_la_langue_maternelle).
 
 ## Qui sommes-nous?
@@ -109,7 +117,7 @@ Malheureusement, nous ne pouvons pas couvrir tes frais de voyage ou d'hébergeme
 
 Si tu as d’autres questions, n’hésite pas à nous contacter, nous essaierons d’y répondre le mieux possible. Nous pouvons également te fournir un certificat de présence si tu en as besoin pour ton employeur.
 
-# Nous contacter
+# Contacts
 
 Email: [hackathon@swissinfo.ch](mailto:hackathon@swissinfo.ch)
 

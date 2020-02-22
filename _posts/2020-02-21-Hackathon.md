@@ -9,6 +9,14 @@ style: style2
 frontpage: true
 ---
 
+## Results!
+
+<iframe src="https://db.schoolofdata.ch/event/4?embed=1" style="width:100%;height:320px;background:transparent;border:none;overflow:hidden" scrolling="no"></iframe>
+
+Many thanks to all participants* for the great work! There is [documentation](https://db.schoolofdata.ch/event/4) (dribdat), [presentations](https://youtu.be/8-FmarNlxgA) (youtube), and [social media](https://twitter.com/hashtag/swihack) (twitter) to explore. For any questions and interest we are at your [disposal](#Contacts).
+
+---
+
 On Feb. 21 and 22, Switzerland's first Multilingual Media Hackathon will take place in Bern at the newsroom of SWI swissinfo.ch, the international service of the Swiss public broadcaster SRG-SSR. We are getting together on occasion of International Mother Language Day, a worldwide annual observance started by UNESCO for [awareness of linguistic and cultural diversity and to promote multilingualism](https://en.wikipedia.org/wiki/International_Mother_Language_Day).
 
 ## About the organisers
