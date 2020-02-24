@@ -9,9 +9,9 @@ style: style2
 frontpage: true
 ---
 
-<iframe src="https://db.schoolofdata.ch/event/4?embed=1" style="width:100%;height:320px;background:transparent;border:none;overflow:hidden" scrolling="no"></iframe>
+<iframe src="https://db.schoolofdata.ch/event/4?embed=1" style="width:100%;height:430px;background:transparent;border:none;overflow:hidden" scrolling="no"></iframe>
 
-**Grazie a tutti i partecipanti per il grande lavoro!** C'è [documentazione](https://db.schoolofdata.ch/event/4) (dribdat), [presentazioni](https://youtu.be/8-FmarNlxgA) (youtube), e [social media](https://twitter.com/hashtag/swihack) (twitter) da esplorare. Per qualsiasi domanda siamo a vostra [disposizione](#Contatto).
+**Grazie a tutte e tutti i partecipanti per il vostro contributo!** Ecco la [documentazione](https://db.schoolofdata.ch/event/4) (dribdat), [presentazioni](https://youtu.be/8-FmarNlxgA) (youtube), e il dibattito su [social media](https://twitter.com/hashtag/swihack) (twitter) da esplorare. Siamo a [vostra disposizione](mailto:hackathon@swissinfo.ch) per qualsiasi domanda.
 
 ---
 
